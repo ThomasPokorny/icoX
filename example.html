@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<mate charest="utf-8" />
+	<title>icoX.js</title>
+	<script type="text/javascript" src='icox.js'> </script>
+</head>
+<body>
+	<!-- adding to surrounding element -->
+	<span>
+		<script>icoX('Bill Harnet');</script>
+	</span>
+	<span id='0'>
+	</span>
+
+	<!-- gets added to the element with id = '0' -->
+	<script>icoX('Jango Fett', '0');</script>
+
+	<!-- creates identicon from sha256 hash-->
+	<script>icoX('ccadd99b16cd3d200c22d6db45d8b6630ef3d936767127347ec8a76ab992c2ea', undefined, true);</script>
+
+	<span id='1'>
+			<script>icoX('d77e12af80da7be86278a3d0d0ef238d66d8a3e864964de8bc709ad92a576f22', '1', true);</script>
+	</span>
+
+	<!-- creates the default identicon-->
+	<script>icoX();</script>
+</body>
+</html>

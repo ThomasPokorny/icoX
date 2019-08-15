@@ -1,6 +1,6 @@
 # icoX.js
 
-![](https://img.shields.io/github/release/pandao/editor.md.svg)
+![Screenshot](https://raw.githubusercontent.com/ThomasPokorny/icoX/master/screenshots/screenshot.png)
 
 Simple retro style pixel identicons, generated form a sha256 hash.
 

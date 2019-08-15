@@ -2,7 +2,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/ThomasPokorny/icoX/master/screenshots/screenshot.png)
 
-Simple retro style pixel identicons, generated form a sha256 hash.
+Simple retro style pixel identicons, generated form sha256 hashes.
 
 #### Basic Usage
 The identicon gets created and added to the surrounding dom-element.

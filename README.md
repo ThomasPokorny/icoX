@@ -47,7 +47,7 @@ Or directly pass a sha256 hash.
     <head>
         <mate charest="utf-8" />
         <title>icoX.js</title>
-		<script type="text/javascript" src='icox.js'> </script>
+	<script type="text/javascript" src='icox.js'> </script>
     </head>
     <body>
 	<script>
